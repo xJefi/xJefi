@@ -5,7 +5,7 @@
 Me chamo Jeferson Ferrari, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS de Bento Gonçalves.
 
 <p>
-  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  <a href="https://github.com/xJefi?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
