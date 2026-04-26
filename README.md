@@ -16,7 +16,7 @@ Me chamo Jeferson Ferrari, tenho 22 anos e sou natural do Rio Grande do Sul. Atu
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/xJefi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/xJefi?style=for-the-badge&label=Seguidores"
         />
     </a>
 </p>
